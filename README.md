@@ -1,2 +1,2 @@
-# Like-WhatsApp
-A cpp program, an implementation of a cpp like-whatsapp app
+Exercise number 4 in the OS course.
+The exercise was building like-whatsapp C++ app.
